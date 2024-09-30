@@ -1,2 +1,2 @@
-# First-repo
-This is my demo repo
+# First-Repo
+This is my demo repo.
