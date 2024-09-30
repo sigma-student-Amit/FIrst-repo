@@ -1,2 +1,2 @@
-# FIrst-repo
+# First-repo
 This is my demo repo
